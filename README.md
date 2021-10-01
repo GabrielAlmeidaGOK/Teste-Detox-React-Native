@@ -1,3 +1,4 @@
 ## TESTE DETOX COM REACT NATIVE
 
-![video](./assets/detox.mp4)
+
+[![Everything Is AWESOME]()](https://streamable.com/vsuhwus)
