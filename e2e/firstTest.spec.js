@@ -13,7 +13,7 @@ describe('Example', () => {
     await expect(element(by.id('title'))).toBeVisible();
   });
 
-  const typedText = 'Reduxolvad';
+  const typedText = 'Reduxolvado';
 
 
   it('Should type Goker Name', async () => {

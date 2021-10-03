@@ -1,4 +1,13 @@
-## TESTE DETOX COM REACT NATIVE
+<h1 align="center">TESTE DETOX COM REACT NATIVE</h1>
 
 
-[![Everything Is AWESOME]()](https://streamable.com/vsuhwus)
+![Everything Is AWESOME](./assets/detox.gif)
+
+
+Teste automatizado feito com Detox
+
+yarn or NPM install
+
+yarn test:android
+
+
